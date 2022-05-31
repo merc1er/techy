@@ -1,5 +1,5 @@
 var gulp = require('gulp');
-var Techy = require(__dirname + '/../../lib/index.js').gulp({	
+var Techy = require(__dirname + '/../../lib/index.js').gulp({
 	customVar: 'friend'
 });
 
